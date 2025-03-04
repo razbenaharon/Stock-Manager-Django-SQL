@@ -24,10 +24,5 @@ The database is initialized using **CSV files**, ensuring a structured data impo
 - **Data Import**: CSV files  
 - **Frontend**: HTML & CSS  
 
----
-
-## 📌 Installation & Setup  
-1️⃣ **Clone the repository**  
-```bash
 git clone https://github.com/YOUR_USERNAME/Stock-Manager-Django-SQL.git
 cd Stock-Manager-Django-SQL
